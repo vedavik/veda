@@ -83,7 +83,7 @@
   </dependencies>
 
   <build>
-    <defaultGoal>iinstall</defaultGoal>
+    <defaultGoal>install</defaultGoal>
 
     <plugins>
 
